@@ -5,6 +5,11 @@
         "id":"0173-1#01-AAJ330#002"
     },
     {
+        "name": "Drone transport",
+        "description": "A drone with transport capability is requested to transport a package from A to B",
+        "id":"0173-1#01-AAJ336#002"
+    },
+    {
         "name": "Drone inspection",
         "description": "A drone with high resolution camera is requested to inspect a wind power plant at human unaccessable areas for potential maintenance / damage",
         "id":"0173-1#01-AAP788#001"
