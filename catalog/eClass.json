@@ -1,8 +1,33 @@
 {
+    "0173-1#01-AAJ330#002": {
+        "submodelElements":[
+            {
+                "idShort":"Hersteller",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0173-1#02-AAJ330#002"
+            },
+            {
+                "idShort":"Typ",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0173-1#02-XYZ123#001"
+            },
+            {
+                "idShort":"price",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"integer",
+                "semanticId":"0173-1#02-AAJ333#002"
+            }
+        ]
+    },
     "0173-1#01-AAJ336#002": {
         "submodelElements":[
             {
-                "idShort":"total weight (freight) [g]",
+                "idShort":"total weight (freight) [kg]",
                 "modelType":"Property",
                 "value":"",
                 "valueType":"double",
