@@ -1,19 +1,156 @@
 {
-    "0173-1#01-AAJ330#002": {
+    "0173-1#01-AAP788#001": {
         "submodelElements":[
             {
                 "idShort":"Hersteller",
                 "modelType":"Property",
                 "value":"",
                 "valueType":"string",
-                "semanticId":"0173-1#02-AAJ330#002"
+                "semanticId":"0000-1#02-AAA001#001"
             },
-            {
-                "idShort":"Typ",
+			{
+                "idShort":"Gerätetyp",
                 "modelType":"Property",
                 "value":"",
                 "valueType":"string",
-                "semanticId":"0173-1#02-XYZ123#001"
+                "semanticId":"0000-1#02-AAA002#001"
+            },
+			{
+                "idShort":"Seriennummer",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0000-1#02-AAA003#001"
+            },
+			{
+                "idShort":"Produktionsdatum",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0000-1#02-AAA004#001"
+            },
+			{
+                "idShort":"Erweiterungen",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0000-1#02-AAA005#001"
+            },
+            {
+                "idShort":"Eigentümer",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0000-1#02-AAA006#001"
+            },
+            {
+                "idShort":"Standort [lat, lng]",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0000-1#02-AAA007#001"
+            },
+			{
+                "idShort":"Betriebsstunden [h]",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"time",
+                "semanticId":"0000-1#02-AAA008#001"
+            },
+			{
+                "idShort":"Aktueller Betriebszustand",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0000-1#02-AAA009#001"
+            },
+			{
+                "idShort":"Letzte Wartung",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0000-1#02-AAA010#001"
+            },
+			{
+                "idShort":"Aktive Fehler",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0000-1#02-AAA011#001"
+            },
+			{
+                "idShort":"Aktive Diagnose",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0000-1#02-AAA012#001"
+            },
+			{
+                "idShort":"Priorität",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0000-1#02-AAA013#001"
+            },
+			{
+                "idShort":"Fehlerkatalog",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0000-1#02-AAA014#001"
+            },
+			{
+                "idShort":"Konventionalstrafe",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"integer",
+                "semanticId":"0000-1#02-AAA015#001"
+            },
+			{
+                "idShort":"Zu entfernende Fehler",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0000-1#02-AAA016#001"
+            },
+			{
+                "idShort":"Erwarteter Betriebszustand",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0000-1#02-AAA017#001"
+            },
+            {
+                "idShort":"price",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"integer",
+                "semanticId":"0173-1#02-AAD979#001"
+            }
+        ]
+    },
+    "0173-1#01-AAJ336#002": {
+        "submodelElements":[
+            {
+                "idShort":"total weight (freight) [kg]",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"double",
+                "semanticId":"0173-1#02-AAJ336#002"
+            },
+            {
+                "idShort":"starting point [lat, lng]",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0173-1#02-BAF163#002"
+            },
+            {
+                "idShort":"destination [lat, lng]",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0173-1#02-AAO631#002"
             },
             {
                 "idShort":"price",
@@ -60,38 +197,6 @@
                 "value":"",
                 "valueType":"integer",
                 "semanticId":"0173-1#02-AAJ333#002"
-            }
-        ]
-    },
-    "0173-1#01-AAP788#001": {
-        "submodelElements":[
-            {
-                "idShort":"number of photos that can be stored",
-                "modelType":"Property",
-                "value":"",
-                "valueType":"long",
-                "semanticId":"0173-1#02-AAP788#001"
-            },
-            {
-                "idShort":"reliability duration [min]",
-                "modelType":"Property",
-                "value":"",
-                "valueType":"time",
-                "semanticId":"0173-1#02-AAY979#001"
-            },
-            {
-                "idShort":"target location [lat, lng]",
-                "modelType":"Property",
-                "value":"",
-                "valueType":"string",
-                "semanticId":"0173-1#02-BAF163#002"
-            },
-            {
-                "idShort":"price",
-                "modelType":"Property",
-                "value":"",
-                "valueType":"integer",
-                "semanticId":"0173-1#02-AAD979#001"
             }
         ]
     },
