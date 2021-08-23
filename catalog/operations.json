@@ -1,8 +1,8 @@
 [
     {
-        "name": "Drone transport",
+        "name": "Drone transport lightweight",
         "description": "A drone with transport capability is requested to transport a package from A to B",
-        "id":"0173-1#01-AAJ336#002"
+        "id":"0173-1#01-AAJ336#003"
     },
     {
         "name": "Drone inspection",
