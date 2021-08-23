@@ -1,12 +1,12 @@
 {
-    "0173-1#01-AAJ336#002": {
+    "0173-1#01-AAJ336#003": {
         "submodelElements":[
             {
                 "idShort":"total weight (freight) [g]",
                 "modelType":"Property",
                 "value":"",
                 "valueType":"double",
-                "semanticId":"0173-1#02-AAJ336#002"
+                "semanticId":"0173-1#02-AAJ336#003"
             },
             {
                 "idShort":"starting point [lat, lng]",
