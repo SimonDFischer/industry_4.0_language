@@ -1,8 +1,8 @@
 [
     {
-        "name": "Drone transport lightweight",
-        "description": "A drone with transport capability is requested to transport a package from A to B",
-        "id":"0173-1#01-AAJ336#002"
+        "name": "HVAC Predictive maintenance",
+        "description": "A maintencance or repair service for hvac equipment is requested, based on predictive analytics. We provide detaied fault descriptions, diagnosis and descripbe expected corrective measures. Access to historic data of the digital twin will be provied after agreement.",
+        "id":"0173-1#01-AAJ330#002"
     },
     {
         "name": "Drone inspection",
