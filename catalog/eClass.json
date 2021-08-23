@@ -9,6 +9,13 @@
                 "semanticId":"0173-1#02-AAJ336#002"
             },
             {
+                "idShort":"Hersteller",
+                "modelType":"Property",
+                "value":"",
+                "valueType":"string",
+                "semanticId":"0173-1#02-XYZ123#001"
+            },
+            {
                 "idShort":"starting point [lat, lng]",
                 "modelType":"Property",
                 "value":"",
