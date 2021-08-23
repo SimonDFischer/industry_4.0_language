@@ -2,7 +2,7 @@
     "0173-1#01-AAJ336#002": {
         "submodelElements":[
             {
-                "idShort":"total weight (freight) [kg]",
+                "idShort":"total weight (freight) [g]",
                 "modelType":"Property",
                 "value":"",
                 "valueType":"double",
